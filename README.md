@@ -47,4 +47,12 @@ Here we can modify the learning rate, epoch and batch size to train the simple M
 * batch size: 500
 * number of particles for ensemble: 10
 
-<img src="alldnn1.png" width="70%"/>
+### Training plot
+<img src="alldnn1.png" width="50%"/>
+
+### Test accuracy
+SGD: 0.8922
+NAG: 0.936
+Adam: 0.9699
+IEnK: 0.886
+
