@@ -14,7 +14,7 @@ This code is written based on the python library numpy. Here we used cross entro
 
 ## Running the Codes
 ```
-DNNforEnKI.py
+main.py
 ```
 Here we can modify the learning rate, epoch and batch size to train the simple MLP. Moreover, the trained weights will be stored in the user defined file, which will be later used for test and prediction.
 
